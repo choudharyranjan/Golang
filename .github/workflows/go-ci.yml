@@ -27,6 +27,6 @@ jobs:
     - name: Check
       run: ls -la 
 
-#    - name: Test
-#      run: go test -v ./...
+    - name: Test
+      run: go test -v
 
