@@ -1,4 +1,4 @@
-name: Go
+name: multiversion_Go
 
 on: [push]
 
